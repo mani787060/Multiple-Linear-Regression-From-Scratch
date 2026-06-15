@@ -100,15 +100,15 @@ The Diabetes dataset contains multiple medical features that are used to predict
 
 ---
 
-## 🏁 Conclusion
-
-Implementing Multiple Linear Regression from scratch provides a deeper understanding of how machine learning models learn from data. By manually calculating coefficients, predictions, and evaluation metrics, this project bridges the gap between theory and practical implementation.
-
----
-
 ## 💻 Technologies Used
 
 * Python
 * NumPy
 * Pandas
 * Matplotlib
+
+---
+
+## 🏁 Conclusion
+
+Implementing Multiple Linear Regression from scratch provides a deeper understanding of how machine learning models learn from data. By manually calculating coefficients, predictions, and evaluation metrics, this project bridges the gap between theory and practical implementation.
